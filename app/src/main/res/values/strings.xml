@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pleasure Island Ecology</string>
+
+    <string name="button_launch">Show Info</string>
+    <string name="title_activity_web_view">More info on %1$s</string>
+
+    <string name="main_header">Select an item below to learn more:</string>
+
+    <string name="intent_location_to_open">location_to_open</string>
+</resources>
